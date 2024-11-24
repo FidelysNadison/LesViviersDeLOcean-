@@ -37,7 +37,7 @@
     }
         
     .hero-wrapper {        
-        --bg-parallax-image: url(../images/home-1/hero-image-2.jpg);    
+        --bg-parallax-image: url(../images/home-1/about-image-2.jpg);
         --bg-parallax-opacity: 1;
        
         // border-radius: 30px;
@@ -60,7 +60,7 @@
     
     &.hero-5{
         .hero-wrapper {        
-            --bg-parallax-image: url(../images/hero-5-bg.jpg);    
+            --bg-parallax-image: url(../images/about-ticket-image.jpg);
             --bg-parallax-opacity: 1;
         }
     }

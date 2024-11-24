@@ -24827,6 +24827,7 @@ a {
 
 :root .logo-light {
   display: none;
+  width:50px;
 }
 
 :root .logo-dark {
